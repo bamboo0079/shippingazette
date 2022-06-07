@@ -1,0 +1,11 @@
+RewriteEngine On
+RewriteBase /
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_URI} !\.(?:css|js)$ [NC]
+RewriteRule ^(.+)$ index.php [QSA,L]
+
+#RewriteRule ^static/ - [L,NC]
+RewriteRule ^/asset - [L,NC]
+RewriteRule ^/src/asset/css/fonts - [L,NC]
+RewriteRule ^/src/controller/backend/ - [L,NC]
