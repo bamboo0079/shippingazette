@@ -1310,9 +1310,9 @@
             overflow: hidden;
         }
 
-        .l-post .content {
-            position: relative;
-        }
+        /*.l-post .content {*/
+            /*position: relative;*/
+        /*}*/
 
         .l-post img {
             max-width: initial;
@@ -1353,9 +1353,9 @@
             --num-width: 40px;
         }
 
-        .has-nums .l-post .content {
-            padding-left: var(--num-c-pad, var(--num-width));
-        }
+        /*.has-nums .l-post .content {*/
+            /*padding-left: var(--num-c-pad, var(--num-width));*/
+        /*}*/
 
         .has-nums-a .l-post .post-title:before, .has-nums .l-post .content:before {
             content: counter(ts-loop);
@@ -3960,7 +3960,8 @@
         .navigation { font-family: "Inter", system-ui, -apple-system, "Segoe UI", Arial, sans-serif; }
         .navigation-main .menu > li > a { font-weight: bold; }
         .smart-head-main .offcanvas-toggle { transform: scale(0.75); }
-        .post-meta .meta-item, .post-meta .text-in { font-size: 11px; font-weight: normal; text-transform: uppercase; letter-spacing: 0.03em; }
+        .post-meta .meta-item, .post-meta .text-in {
+            font-size: 11px; font-weight: normal; letter-spacing: 0.03em; }
         .post-meta .text-in, .post-meta .post-cat > a { font-size: 11px; }
         .post-meta .post-cat > a { font-weight: bold; text-transform: uppercase; letter-spacing: 0.1em; }
         .post-meta .post-author > a { font-weight: bold; }
@@ -4955,7 +4956,14 @@
                                                                     </a>
                                                                 </div>
                                                                 <div class="content">
-                                                                    <div class="post-meta post-meta-a has-below"><h2 class="is-title post-title limit-lines l-lines-2"><a href="">The Golden Rules of Midlife Fitness &#038; Things Getting Wrong</a></h2><div class="post-meta-items meta-below"><span class="meta-item post-author"><span class="by">By</span> <a href="pro-mag/author/admin/" title="Posts by Shane Doe" rel="author">Shane Doe</a></span><span class="meta-item date"><span class="date-link"><time class="post-date" datetime="2021-01-13T17:52:47+00:00">Jan  13, 2021</time></span></span></div></div>
+                                                                    <div class="post-meta post-meta-a has-below">
+                                                                        <h2 class="is-title post-title limit-lines l-lines-2">
+                                                                            <a href="">The Golden Rules of Midlife Fitness &#038; Things Getting Wrong</a>
+                                                                        </h2>
+                                                                        <div class="post-meta-items meta-below">
+                                                                           <p style="font-size: 14px">Đại diện Bộ Giao thông Vận tải cho rằng lối bộ hành trên cầu Long Biên không dành cho người đi bộ...</p>
+                                                                        </div>
+                                                                    </div>
                                                                     <div class="excerpt">
                                                                         <p>To understand the new smart watched and other pro devices of recent focus, we should&hellip;</p>
                                                                     </div>
@@ -4975,7 +4983,7 @@
                                                                     </a>
                                                                 </div>
                                                                 <div class="content">
-                                                                    <div class="post-meta post-meta-a has-below"><h2 class="is-title post-title limit-lines l-lines-2"><a href="pro-mag/30-diy-home-decor-ideas-new-easy-craft-projects/">30 DIY Home Decor Ideas &#8211; New Easy Craft Projects</a></h2><div class="post-meta-items meta-below"><span class="meta-item post-author"><span class="by">By</span> <a href="pro-mag/author/admin/" title="Posts by Shane Doe" rel="author">Shane Doe</a></span><span class="meta-item date"><span class="date-link"><time class="post-date" datetime="2021-01-13T17:51:57+00:00">Jan  13, 2021</time></span></span></div></div>
+                                                                    <div class="post-meta post-meta-a has-below"><h2 class="is-title post-title limit-lines l-lines-2"><a href="pro-mag/30-diy-home-decor-ideas-new-easy-craft-projects/">30 DIY Home Decor Ideas &#8211; New Easy Craft Projects</a></h2><div class="post-meta-items meta-below"><p style="font-size: 14px">Đại diện Bộ Giao thông Vận tải cho rằng lối bộ hành trên cầu Long Biên không dành cho người đi bộ...</p></div></div>
                                                                     <div class="excerpt">
                                                                         <p>To understand the new smart watched and other pro devices of recent focus, we should&hellip;</p>
                                                                     </div>
@@ -4992,7 +5000,7 @@
                                                                     </a>
                                                                 </div>
                                                                 <div class="content">
-                                                                    <div class="post-meta post-meta-a post-meta-left has-below"><h4 class="is-title post-title limit-lines l-lines-2"><a href="pro-mag/how-to-apply-perfume-and-make-it-last-longer/">How to Apply Perfume and Make It Last Longer</a></h4><div class="post-meta-items meta-below"><span class="meta-item date"><span class="date-link"><time class="post-date" datetime="2021-01-13T17:51:51+00:00">Jan  13, 2021</time></span></span></div></div>
+                                                                    <div class="post-meta post-meta-a post-meta-left has-below"><h4 class="is-title post-title limit-lines l-lines-2"><a href="pro-mag/how-to-apply-perfume-and-make-it-last-longer/">How to Apply Perfume and Make It Last Longer</a></h4><div class="post-meta-items meta-below"><p style="font-size: 14px">Đại diện Bộ Giao thông Vận tải...</p></div></div>
                                                                 </div>
                                                             </article>
                                                             <article class="l-post  small-a-post m-pos-left small-post">
@@ -5004,7 +5012,7 @@
                                                                     </a>
                                                                 </div>
                                                                 <div class="content">
-                                                                    <div class="post-meta post-meta-a post-meta-left has-below"><h4 class="is-title post-title limit-lines l-lines-2"><a href="pro-mag/how-to-apply-perfume-and-make-it-last-longer/">How to Apply Perfume and Make It Last Longer</a></h4><div class="post-meta-items meta-below"><span class="meta-item date"><span class="date-link"><time class="post-date" datetime="2021-01-13T17:51:51+00:00">Jan  13, 2021</time></span></span></div></div>
+                                                                    <div class="post-meta post-meta-a post-meta-left has-below"><h4 class="is-title post-title limit-lines l-lines-2"><a href="pro-mag/how-to-apply-perfume-and-make-it-last-longer/">How to Apply Perfume and Make It Last Longer</a></h4><div class="post-meta-items meta-below"><p style="font-size: 14px">Đại diện Bộ Giao thông Vận tải...</p></div></div>
                                                                 </div>
                                                             </article>
                                                             <article class="l-post  small-a-post m-pos-left small-post">
@@ -5016,7 +5024,7 @@
                                                                     </a>
                                                                 </div>
                                                                 <div class="content">
-                                                                    <div class="post-meta post-meta-a post-meta-left has-below"><h4 class="is-title post-title limit-lines l-lines-2"><a href="pro-mag/how-to-apply-perfume-and-make-it-last-longer/">How to Apply Perfume and Make It Last Longer</a></h4><div class="post-meta-items meta-below"><span class="meta-item date"><span class="date-link"><time class="post-date" datetime="2021-01-13T17:51:51+00:00">Jan  13, 2021</time></span></span></div></div>
+                                                                    <div class="post-meta post-meta-a post-meta-left has-below"><h4 class="is-title post-title limit-lines l-lines-2"><a href="pro-mag/how-to-apply-perfume-and-make-it-last-longer/">How to Apply Perfume and Make It Last Longer</a></h4><div class="post-meta-items meta-below"><p style="font-size: 14px">Đại diện Bộ Giao thông Vận tải...</p></div></div>
                                                                 </div>
                                                             </article>
                                                             <article class="l-post  small-a-post m-pos-left small-post">
@@ -5028,7 +5036,7 @@
                                                                     </a>
                                                                 </div>
                                                                 <div class="content">
-                                                                    <div class="post-meta post-meta-a post-meta-left has-below"><h4 class="is-title post-title limit-lines l-lines-2"><a href="pro-mag/how-to-apply-perfume-and-make-it-last-longer/">How to Apply Perfume and Make It Last Longer</a></h4><div class="post-meta-items meta-below"><span class="meta-item date"><span class="date-link"><time class="post-date" datetime="2021-01-13T17:51:51+00:00">Jan  13, 2021</time></span></span></div></div>
+                                                                    <div class="post-meta post-meta-a post-meta-left has-below"><h4 class="is-title post-title limit-lines l-lines-2"><a href="pro-mag/how-to-apply-perfume-and-make-it-last-longer/">How to Apply Perfume and Make It Last Longer</a></h4><div class="post-meta-items meta-below"><p style="font-size: 14px">Đại diện Bộ Giao thông Vận tải...</p></div></div>
                                                                 </div>
                                                             </article>
                                                         </div>
@@ -5692,7 +5700,7 @@
                                         <div class="elementor-widget-container">
                                             <section class="block-wrap block-grid block-sc mb-none" data-id="8">
                                                 <div style="margin-top: 20px; !important;" class="block-head block-head-ac block-head-e block-head-e2 is-left">
-                                                    <h4 class="heading"><span class="color-header">Đường Bộ</span></h4>
+                                                    <h4 class="heading"><span class="color-header">Tin Đường Bộ</span></h4>
                                                 </div>
                                                 <div class="block-content">
                                                     <div class="loop loop-grid loop-grid-base has-nums has-nums-c grid grid-4 md:grid-2 xs:grid-1">
@@ -5712,17 +5720,7 @@
                                                                     <h4 class="post-title is-title post-title limit-lines l-lines-2">
                                                                         <a href="/">I Tried the 20-Minute Abs Workout — and it’s a Killer</a>
                                                                     </h4>
-                                                                    <div class="post-meta-items meta-below">
-                                                                        <span class="meta-item post-author">
-                                                                            <span class="by">By</span>
-                                                                            <a href="" title="Posts by Shane Doe" rel="author">Shane Doe</a>
-                                                                        </span>
-                                                                        <span class="meta-item date">
-                                                                            <span class="date-link">
-                                                                                <time class="post-date" datetime="2021-03-12T17:30:58+00:00">Mar  12, 2021</time>
-                                                                            </span>
-                                                                        </span>
-                                                                    </div>
+                                                                    <div class="post-meta-items meta-below"><p style="font-size: 14px">Đại diện Bộ Giao thông Vận tải cho rằng lối bộ hành trên cầu Long Biên không dành cho người đi bộ...</p></div>
                                                                 </div>
                                                             </div>
                                                         </article>
@@ -5742,17 +5740,7 @@
                                                                     <h4 class="is-title post-title limit-lines l-lines-2">
                                                                         <a href="/">I Tried the 20-Minute Abs Workout — and it’s a Killer</a>
                                                                     </h4>
-                                                                    <div class="post-meta-items meta-below">
-                                                                        <span class="meta-item post-author">
-                                                                            <span class="by">By</span>
-                                                                            <a href="" title="Posts by Shane Doe" rel="author">Shane Doe</a>
-                                                                        </span>
-                                                                        <span class="meta-item date">
-                                                                            <span class="date-link">
-                                                                                <time class="post-date" datetime="2021-03-12T17:30:58+00:00">Mar  12, 2021</time>
-                                                                            </span>
-                                                                        </span>
-                                                                    </div>
+                                                                    <div class="post-meta-items meta-below"><p style="font-size: 14px">Đại diện Bộ Giao thông Vận tải cho rằng lối bộ hành trên cầu Long Biên không dành cho người đi bộ...</p></div>
                                                                 </div>
                                                             </div>
                                                         </article>
@@ -5772,17 +5760,7 @@
                                                                     <h4 class="post-title is-title post-title limit-lines l-lines-2">
                                                                         <a href="/">I Tried the 20-Minute Abs Workout — and it’s a Killer</a>
                                                                     </h4>
-                                                                    <div class="post-meta-items meta-below">
-                                                                        <span class="meta-item post-author">
-                                                                            <span class="by">By</span>
-                                                                            <a href="" title="Posts by Shane Doe" rel="author">Shane Doe</a>
-                                                                        </span>
-                                                                        <span class="meta-item date">
-                                                                            <span class="date-link">
-                                                                                <time class="post-date" datetime="2021-03-12T17:30:58+00:00">Mar  12, 2021</time>
-                                                                            </span>
-                                                                        </span>
-                                                                    </div>
+                                                                    <div class="post-meta-items meta-below"><p style="font-size: 14px">Đại diện Bộ Giao thông Vận tải cho rằng lối bộ hành trên cầu Long Biên không dành cho người đi bộ...</p></div>
                                                                 </div>
                                                             </div>
                                                         </article>
@@ -5802,17 +5780,7 @@
                                                                     <h4 class="post-title is-title post-title limit-lines l-lines-2">
                                                                         <a href="/">I Tried the 20-Minute Abs Workout — and it’s a Killer</a>
                                                                     </h4>
-                                                                    <div class="post-meta-items meta-below">
-                                                                        <span class="meta-item post-author">
-                                                                            <span class="by">By</span>
-                                                                            <a href="" title="Posts by Shane Doe" rel="author">Shane Doe</a>
-                                                                        </span>
-                                                                        <span class="meta-item date">
-                                                                            <span class="date-link">
-                                                                                <time class="post-date" datetime="2021-03-12T17:30:58+00:00">Mar  12, 2021</time>
-                                                                            </span>
-                                                                        </span>
-                                                                    </div>
+                                                                    <div class="post-meta-items meta-below"><p style="font-size: 14px">Đại diện Bộ Giao thông Vận tải cho rằng lối bộ hành trên cầu Long Biên không dành cho người đi bộ...</p></div>
                                                                 </div>
                                                             </div>
                                                         </article>
@@ -5836,7 +5804,7 @@
                                         <div class="elementor-widget-container">
                                             <section class="block-wrap block-grid block-sc mb-none" data-id="8">
                                                 <div style="margin-top: 20px; !important;" class="block-head block-head-ac block-head-e block-head-e2 is-left">
-                                                    <h4 class="heading"><span class="color-header">Xuất Nhập Khẩu</span></h4>
+                                                    <h4 class="heading"><span class="color-header">Tin Xuất Nhập Khẩu</span></h4>
                                                 </div>
                                                 <div class="block-content">
                                                     <div class="loop loop-grid loop-grid-base has-nums has-nums-c grid grid-4 md:grid-2 xs:grid-1">
@@ -5856,17 +5824,7 @@
                                                                     <h4 class="post-title is-title post-title limit-lines l-lines-2">
                                                                         <a href="/">I Tried the 20-Minute Abs Workout — and it’s a Killer</a>
                                                                     </h4>
-                                                                    <div class="post-meta-items meta-below">
-                                                                        <span class="meta-item post-author">
-                                                                            <span class="by">By</span>
-                                                                            <a href="" title="Posts by Shane Doe" rel="author">Shane Doe</a>
-                                                                        </span>
-                                                                        <span class="meta-item date">
-                                                                            <span class="date-link">
-                                                                                <time class="post-date" datetime="2021-03-12T17:30:58+00:00">Mar  12, 2021</time>
-                                                                            </span>
-                                                                        </span>
-                                                                    </div>
+                                                                    <div class="post-meta-items meta-below"><p style="font-size: 14px">Đại diện Bộ Giao thông Vận tải cho rằng lối bộ hành trên cầu Long Biên không dành cho người đi bộ...</p></div>
                                                                 </div>
                                                             </div>
                                                         </article>
@@ -5886,17 +5844,7 @@
                                                                     <h4 class="is-title post-title limit-lines l-lines-2">
                                                                         <a href="/">I Tried the 20-Minute Abs Workout — and it’s a Killer</a>
                                                                     </h4>
-                                                                    <div class="post-meta-items meta-below">
-                                                                        <span class="meta-item post-author">
-                                                                            <span class="by">By</span>
-                                                                            <a href="" title="Posts by Shane Doe" rel="author">Shane Doe</a>
-                                                                        </span>
-                                                                        <span class="meta-item date">
-                                                                            <span class="date-link">
-                                                                                <time class="post-date" datetime="2021-03-12T17:30:58+00:00">Mar  12, 2021</time>
-                                                                            </span>
-                                                                        </span>
-                                                                    </div>
+                                                                    <div class="post-meta-items meta-below"><p style="font-size: 14px">Đại diện Bộ Giao thông Vận tải cho rằng lối bộ hành trên cầu Long Biên không dành cho người đi bộ...</p></div>
                                                                 </div>
                                                             </div>
                                                         </article>
@@ -5916,17 +5864,7 @@
                                                                     <h4 class="post-title is-title post-title limit-lines l-lines-2">
                                                                         <a href="/">I Tried the 20-Minute Abs Workout — and it’s a Killer</a>
                                                                     </h4>
-                                                                    <div class="post-meta-items meta-below">
-                                                                        <span class="meta-item post-author">
-                                                                            <span class="by">By</span>
-                                                                            <a href="" title="Posts by Shane Doe" rel="author">Shane Doe</a>
-                                                                        </span>
-                                                                        <span class="meta-item date">
-                                                                            <span class="date-link">
-                                                                                <time class="post-date" datetime="2021-03-12T17:30:58+00:00">Mar  12, 2021</time>
-                                                                            </span>
-                                                                        </span>
-                                                                    </div>
+                                                                    <div class="post-meta-items meta-below"><p style="font-size: 14px">Đại diện Bộ Giao thông Vận tải cho rằng lối bộ hành trên cầu Long Biên không dành cho người đi bộ...</p></div>
                                                                 </div>
                                                             </div>
                                                         </article>
@@ -5946,17 +5884,7 @@
                                                                     <h4 class="post-title is-title post-title limit-lines l-lines-2">
                                                                         <a href="/">I Tried the 20-Minute Abs Workout — and it’s a Killer</a>
                                                                     </h4>
-                                                                    <div class="post-meta-items meta-below">
-                                                                        <span class="meta-item post-author">
-                                                                            <span class="by">By</span>
-                                                                            <a href="" title="Posts by Shane Doe" rel="author">Shane Doe</a>
-                                                                        </span>
-                                                                        <span class="meta-item date">
-                                                                            <span class="date-link">
-                                                                                <time class="post-date" datetime="2021-03-12T17:30:58+00:00">Mar  12, 2021</time>
-                                                                            </span>
-                                                                        </span>
-                                                                    </div>
+                                                                    <div class="post-meta-items meta-below"><p style="font-size: 14px">Đại diện Bộ Giao thông Vận tải cho rằng lối bộ hành trên cầu Long Biên không dành cho người đi bộ...</p></div>
                                                                 </div>
                                                             </div>
                                                         </article>
@@ -5980,7 +5908,7 @@
                                         <div class="elementor-widget-container">
                                             <section class="block-wrap block-grid block-sc mb-none" data-id="8">
                                                 <div style="margin-top: 20px; !important;" class="block-head block-head-ac block-head-e block-head-e2 is-left">
-                                                    <h4 class="heading"><span class="color-header">Ga - Cảng - Cửa Khẩu</span></h4>
+                                                    <h4 class="heading"><span class="color-header">Tin Ga - Cảng - Cửa Khẩu</span></h4>
                                                 </div>
                                                 <div class="block-content">
                                                     <div class="loop loop-grid loop-grid-base has-nums has-nums-c grid grid-4 md:grid-2 xs:grid-1">
@@ -6000,17 +5928,7 @@
                                                                     <h4 class="post-title is-title post-title limit-lines l-lines-2">
                                                                         <a href="/">I Tried the 20-Minute Abs Workout — and it’s a Killer</a>
                                                                     </h4>
-                                                                    <div class="post-meta-items meta-below">
-                                                                        <span class="meta-item post-author">
-                                                                            <span class="by">By</span>
-                                                                            <a href="" title="Posts by Shane Doe" rel="author">Shane Doe</a>
-                                                                        </span>
-                                                                        <span class="meta-item date">
-                                                                            <span class="date-link">
-                                                                                <time class="post-date" datetime="2021-03-12T17:30:58+00:00">Mar  12, 2021</time>
-                                                                            </span>
-                                                                        </span>
-                                                                    </div>
+                                                                    <div class="post-meta-items meta-below"><p style="font-size: 14px">Đại diện Bộ Giao thông Vận tải cho rằng lối bộ hành trên cầu Long Biên không dành cho người đi bộ...</p></div>
                                                                 </div>
                                                             </div>
                                                         </article>
@@ -6030,17 +5948,7 @@
                                                                     <h4 class="is-title post-title limit-lines l-lines-2">
                                                                         <a href="/">I Tried the 20-Minute Abs Workout — and it’s a Killer</a>
                                                                     </h4>
-                                                                    <div class="post-meta-items meta-below">
-                                                                        <span class="meta-item post-author">
-                                                                            <span class="by">By</span>
-                                                                            <a href="" title="Posts by Shane Doe" rel="author">Shane Doe</a>
-                                                                        </span>
-                                                                        <span class="meta-item date">
-                                                                            <span class="date-link">
-                                                                                <time class="post-date" datetime="2021-03-12T17:30:58+00:00">Mar  12, 2021</time>
-                                                                            </span>
-                                                                        </span>
-                                                                    </div>
+                                                                    <div class="post-meta-items meta-below"><p style="font-size: 14px">Đại diện Bộ Giao thông Vận tải cho rằng lối bộ hành trên cầu Long Biên không dành cho người đi bộ...</p></div>
                                                                 </div>
                                                             </div>
                                                         </article>
@@ -6060,17 +5968,7 @@
                                                                     <h4 class="post-title is-title post-title limit-lines l-lines-2">
                                                                         <a href="/">I Tried the 20-Minute Abs Workout — and it’s a Killer</a>
                                                                     </h4>
-                                                                    <div class="post-meta-items meta-below">
-                                                                        <span class="meta-item post-author">
-                                                                            <span class="by">By</span>
-                                                                            <a href="" title="Posts by Shane Doe" rel="author">Shane Doe</a>
-                                                                        </span>
-                                                                        <span class="meta-item date">
-                                                                            <span class="date-link">
-                                                                                <time class="post-date" datetime="2021-03-12T17:30:58+00:00">Mar  12, 2021</time>
-                                                                            </span>
-                                                                        </span>
-                                                                    </div>
+                                                                    <div class="post-meta-items meta-below"><p style="font-size: 14px">Đại diện Bộ Giao thông Vận tải cho rằng lối bộ hành trên cầu Long Biên không dành cho người đi bộ...</p></div>
                                                                 </div>
                                                             </div>
                                                         </article>
@@ -6090,17 +5988,7 @@
                                                                     <h4 class="post-title is-title post-title limit-lines l-lines-2">
                                                                         <a href="/">I Tried the 20-Minute Abs Workout — and it’s a Killer</a>
                                                                     </h4>
-                                                                    <div class="post-meta-items meta-below">
-                                                                        <span class="meta-item post-author">
-                                                                            <span class="by">By</span>
-                                                                            <a href="" title="Posts by Shane Doe" rel="author">Shane Doe</a>
-                                                                        </span>
-                                                                        <span class="meta-item date">
-                                                                            <span class="date-link">
-                                                                                <time class="post-date" datetime="2021-03-12T17:30:58+00:00">Mar  12, 2021</time>
-                                                                            </span>
-                                                                        </span>
-                                                                    </div>
+                                                                    <div class="post-meta-items meta-below"><p style="font-size: 14px">Đại diện Bộ Giao thông Vận tải cho rằng lối bộ hành trên cầu Long Biên không dành cho người đi bộ...</p></div>
                                                                 </div>
                                                             </div>
                                                         </article>
@@ -6124,7 +6012,7 @@
                                         <div class="elementor-widget-container">
                                             <section class="block-wrap block-grid block-sc mb-none" data-id="8">
                                                 <div style="margin-top: 20px; !important;" class="block-head block-head-ac block-head-e block-head-e2 is-left">
-                                                    <h4 class="heading"><span class="color-header">Đầu Tư</span></h4>
+                                                    <h4 class="heading"><span class="color-header">Tin Đầu Tư</span></h4>
                                                 </div>
                                                 <div class="block-content">
                                                     <div class="loop loop-grid loop-grid-base has-nums has-nums-c grid grid-4 md:grid-2 xs:grid-1">
@@ -6144,17 +6032,7 @@
                                                                     <h4 class="post-title is-title post-title limit-lines l-lines-2">
                                                                         <a href="/">I Tried the 20-Minute Abs Workout — and it’s a Killer</a>
                                                                     </h4>
-                                                                    <div class="post-meta-items meta-below">
-                                                                        <span class="meta-item post-author">
-                                                                            <span class="by">By</span>
-                                                                            <a href="" title="Posts by Shane Doe" rel="author">Shane Doe</a>
-                                                                        </span>
-                                                                        <span class="meta-item date">
-                                                                            <span class="date-link">
-                                                                                <time class="post-date" datetime="2021-03-12T17:30:58+00:00">Mar  12, 2021</time>
-                                                                            </span>
-                                                                        </span>
-                                                                    </div>
+                                                                    <div class="post-meta-items meta-below"><p style="font-size: 14px">Đại diện Bộ Giao thông Vận tải cho rằng lối bộ hành trên cầu Long Biên không dành cho người đi bộ...</p></div>
                                                                 </div>
                                                             </div>
                                                         </article>
@@ -6174,17 +6052,7 @@
                                                                     <h4 class="is-title post-title limit-lines l-lines-2">
                                                                         <a href="/">I Tried the 20-Minute Abs Workout — and it’s a Killer</a>
                                                                     </h4>
-                                                                    <div class="post-meta-items meta-below">
-                                                                        <span class="meta-item post-author">
-                                                                            <span class="by">By</span>
-                                                                            <a href="" title="Posts by Shane Doe" rel="author">Shane Doe</a>
-                                                                        </span>
-                                                                        <span class="meta-item date">
-                                                                            <span class="date-link">
-                                                                                <time class="post-date" datetime="2021-03-12T17:30:58+00:00">Mar  12, 2021</time>
-                                                                            </span>
-                                                                        </span>
-                                                                    </div>
+                                                                    <div class="post-meta-items meta-below"><p style="font-size: 14px">Đại diện Bộ Giao thông Vận tải cho rằng lối bộ hành trên cầu Long Biên không dành cho người đi bộ...</p></div>
                                                                 </div>
                                                             </div>
                                                         </article>
@@ -6204,17 +6072,7 @@
                                                                     <h4 class="post-title is-title post-title limit-lines l-lines-2">
                                                                         <a href="/">I Tried the 20-Minute Abs Workout — and it’s a Killer</a>
                                                                     </h4>
-                                                                    <div class="post-meta-items meta-below">
-                                                                        <span class="meta-item post-author">
-                                                                            <span class="by">By</span>
-                                                                            <a href="" title="Posts by Shane Doe" rel="author">Shane Doe</a>
-                                                                        </span>
-                                                                        <span class="meta-item date">
-                                                                            <span class="date-link">
-                                                                                <time class="post-date" datetime="2021-03-12T17:30:58+00:00">Mar  12, 2021</time>
-                                                                            </span>
-                                                                        </span>
-                                                                    </div>
+                                                                    <div class="post-meta-items meta-below"><p style="font-size: 14px">Đại diện Bộ Giao thông Vận tải cho rằng lối bộ hành trên cầu Long Biên không dành cho người đi bộ...</p></div>
                                                                 </div>
                                                             </div>
                                                         </article>
@@ -6234,17 +6092,7 @@
                                                                     <h4 class="post-title is-title post-title limit-lines l-lines-2">
                                                                         <a href="/">I Tried the 20-Minute Abs Workout — and it’s a Killer</a>
                                                                     </h4>
-                                                                    <div class="post-meta-items meta-below">
-                                                                        <span class="meta-item post-author">
-                                                                            <span class="by">By</span>
-                                                                            <a href="" title="Posts by Shane Doe" rel="author">Shane Doe</a>
-                                                                        </span>
-                                                                        <span class="meta-item date">
-                                                                            <span class="date-link">
-                                                                                <time class="post-date" datetime="2021-03-12T17:30:58+00:00">Mar  12, 2021</time>
-                                                                            </span>
-                                                                        </span>
-                                                                    </div>
+                                                                    <div class="post-meta-items meta-below"><p style="font-size: 14px">Đại diện Bộ Giao thông Vận tải cho rằng lối bộ hành trên cầu Long Biên không dành cho người đi bộ...</p></div>
                                                                 </div>
                                                             </div>
                                                         </article>
@@ -6268,7 +6116,7 @@
                                         <div class="elementor-widget-container">
                                             <section class="block-wrap block-grid block-sc mb-none" data-id="8">
                                                 <div style="margin-top: 20px; !important;" class="block-head block-head-ac block-head-e block-head-e2 is-left">
-                                                    <h4 class="heading"><span class="color-header">Khác</span></h4>
+                                                    <h4 class="heading"><span class="color-header">Tin Khác</span></h4>
                                                 </div>
                                                 <div class="block-content">
                                                     <div class="loop loop-grid loop-grid-base has-nums has-nums-c grid grid-4 md:grid-2 xs:grid-1">
@@ -6288,17 +6136,7 @@
                                                                     <h4 class="post-title is-title post-title limit-lines l-lines-2">
                                                                         <a href="/">I Tried the 20-Minute Abs Workout — and it’s a Killer</a>
                                                                     </h4>
-                                                                    <div class="post-meta-items meta-below">
-                                                                        <span class="meta-item post-author">
-                                                                            <span class="by">By</span>
-                                                                            <a href="" title="Posts by Shane Doe" rel="author">Shane Doe</a>
-                                                                        </span>
-                                                                        <span class="meta-item date">
-                                                                            <span class="date-link">
-                                                                                <time class="post-date" datetime="2021-03-12T17:30:58+00:00">Mar  12, 2021</time>
-                                                                            </span>
-                                                                        </span>
-                                                                    </div>
+                                                                    <div class="post-meta-items meta-below"><p style="font-size: 14px">Đại diện Bộ Giao thông Vận tải cho rằng lối bộ hành trên cầu Long Biên không dành cho người đi bộ...</p></div>
                                                                 </div>
                                                             </div>
                                                         </article>
@@ -6318,17 +6156,7 @@
                                                                     <h4 class="is-title post-title limit-lines l-lines-2">
                                                                         <a href="/">I Tried the 20-Minute Abs Workout — and it’s a Killer</a>
                                                                     </h4>
-                                                                    <div class="post-meta-items meta-below">
-                                                                        <span class="meta-item post-author">
-                                                                            <span class="by">By</span>
-                                                                            <a href="" title="Posts by Shane Doe" rel="author">Shane Doe</a>
-                                                                        </span>
-                                                                        <span class="meta-item date">
-                                                                            <span class="date-link">
-                                                                                <time class="post-date" datetime="2021-03-12T17:30:58+00:00">Mar  12, 2021</time>
-                                                                            </span>
-                                                                        </span>
-                                                                    </div>
+                                                                    <div class="post-meta-items meta-below"><p style="font-size: 14px">Đại diện Bộ Giao thông Vận tải cho rằng lối bộ hành trên cầu Long Biên không dành cho người đi bộ...</p></div>
                                                                 </div>
                                                             </div>
                                                         </article>
@@ -6348,17 +6176,7 @@
                                                                     <h4 class="post-title is-title post-title limit-lines l-lines-2">
                                                                         <a href="/">I Tried the 20-Minute Abs Workout — and it’s a Killer</a>
                                                                     </h4>
-                                                                    <div class="post-meta-items meta-below">
-                                                                        <span class="meta-item post-author">
-                                                                            <span class="by">By</span>
-                                                                            <a href="" title="Posts by Shane Doe" rel="author">Shane Doe</a>
-                                                                        </span>
-                                                                        <span class="meta-item date">
-                                                                            <span class="date-link">
-                                                                                <time class="post-date" datetime="2021-03-12T17:30:58+00:00">Mar  12, 2021</time>
-                                                                            </span>
-                                                                        </span>
-                                                                    </div>
+                                                                    <div class="post-meta-items meta-below"><p style="font-size: 14px">Đại diện Bộ Giao thông Vận tải cho rằng lối bộ hành trên cầu Long Biên không dành cho người đi bộ...</p></div>
                                                                 </div>
                                                             </div>
                                                         </article>
@@ -6378,17 +6196,7 @@
                                                                     <h4 class="post-title is-title post-title limit-lines l-lines-2">
                                                                         <a href="/">I Tried the 20-Minute Abs Workout — and it’s a Killer</a>
                                                                     </h4>
-                                                                    <div class="post-meta-items meta-below">
-                                                                        <span class="meta-item post-author">
-                                                                            <span class="by">By</span>
-                                                                            <a href="" title="Posts by Shane Doe" rel="author">Shane Doe</a>
-                                                                        </span>
-                                                                        <span class="meta-item date">
-                                                                            <span class="date-link">
-                                                                                <time class="post-date" datetime="2021-03-12T17:30:58+00:00">Mar  12, 2021</time>
-                                                                            </span>
-                                                                        </span>
-                                                                    </div>
+                                                                    <div class="post-meta-items meta-below"><p style="font-size: 14px">Đại diện Bộ Giao thông Vận tải cho rằng lối bộ hành trên cầu Long Biên không dành cho người đi bộ...</p></div>
                                                                 </div>
                                                             </div>
                                                         </article>
