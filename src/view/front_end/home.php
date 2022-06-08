@@ -4985,7 +4985,11 @@
                                                         <div class="loop loop-small loop-small-a grid grid-2 md:grid-1 sm:grid-1 xs:grid-1">
                                                             <article class="l-post  small-a-post m-pos-left small-post">
                                                                 <div class="media">
-                                                                    <a href="" class="image-link media-ratio ar-bunyad-thumb" title="How to Apply Perfume and Make It Last Longer"><span data-bgsrc="https://smartmag.theme-sphere.com/pro-mag/wp-content/uploads/sites/18/2021/01/deanna-alys-xQwRvghauaU-unsplash-1-300x183.jpg" class="img bg-cover wp-post-image attachment-medium size-medium lazyload" data-bgset="https://smartmag.theme-sphere.com/pro-mag/wp-content/uploads/sites/18/2021/01/deanna-alys-xQwRvghauaU-unsplash-1-300x183.jpg 300w, https://smartmag.theme-sphere.com/pro-mag/wp-content/uploads/sites/18/2021/01/deanna-alys-xQwRvghauaU-unsplash-1-1024x625.jpg 1024w, https://smartmag.theme-sphere.com/pro-mag/wp-content/uploads/sites/18/2021/01/deanna-alys-xQwRvghauaU-unsplash-1-768x469.jpg 768w, https://smartmag.theme-sphere.com/pro-mag/wp-content/uploads/sites/18/2021/01/deanna-alys-xQwRvghauaU-unsplash-1-1536x937.jpg 1536w, https://smartmag.theme-sphere.com/pro-mag/wp-content/uploads/sites/18/2021/01/deanna-alys-xQwRvghauaU-unsplash-1-150x92.jpg 150w, https://smartmag.theme-sphere.com/pro-mag/wp-content/uploads/sites/18/2021/01/deanna-alys-xQwRvghauaU-unsplash-1-450x275.jpg 450w, https://smartmag.theme-sphere.com/pro-mag/wp-content/uploads/sites/18/2021/01/deanna-alys-xQwRvghauaU-unsplash-1-1200x732.jpg 1200w, https://smartmag.theme-sphere.com/pro-mag/wp-content/uploads/sites/18/2021/01/deanna-alys-xQwRvghauaU-unsplash-1.jpg 1719w" data-sizes="(max-width: 105px) 100vw, 105px"></span></a>
+                                                                    <a href="" class="image-link media-ratio ar-bunyad-thumb" title="How to Apply Perfume and Make It Last Longer">
+                                                                        <span data-bgsrc="/src/asset/img/product/1_300_200.jpg" class="img bg-cover wp-post-image attachment-medium size-medium lazyload"
+                                                                              data-bgset="/src/asset/img/product/1_300_200.jpg" data-sizes="(max-width: 105px) 100vw, 105px">
+                                                                        </span>
+                                                                    </a>
                                                                 </div>
                                                                 <div class="content">
                                                                     <div class="post-meta post-meta-a post-meta-left has-below"><h4 class="is-title post-title limit-lines l-lines-2"><a href="pro-mag/how-to-apply-perfume-and-make-it-last-longer/">How to Apply Perfume and Make It Last Longer</a></h4><div class="post-meta-items meta-below"><span class="meta-item date"><span class="date-link"><time class="post-date" datetime="2021-01-13T17:51:51+00:00">Jan  13, 2021</time></span></span></div></div>
@@ -4993,26 +4997,38 @@
                                                             </article>
                                                             <article class="l-post  small-a-post m-pos-left small-post">
                                                                 <div class="media">
-                                                                    <a href="pro-mag/how-your-healthy-lifestyle-can-be-making-you-tired/" class="image-link media-ratio ar-bunyad-thumb" title="How Your &#8216;Healthy&#8217; Lifestyle Can Be Making You Tired"><span data-bgsrc="https://smartmag.theme-sphere.com/pro-mag/wp-content/uploads/sites/18/2021/01/Depositphotos_437955496_xl-2015-300x200.jpg" class="img bg-cover wp-post-image attachment-medium size-medium lazyload" data-bgset="https://smartmag.theme-sphere.com/pro-mag/wp-content/uploads/sites/18/2021/01/Depositphotos_437955496_xl-2015-300x200.jpg 300w, https://smartmag.theme-sphere.com/pro-mag/wp-content/uploads/sites/18/2021/01/Depositphotos_437955496_xl-2015-1024x683.jpg 1024w, https://smartmag.theme-sphere.com/pro-mag/wp-content/uploads/sites/18/2021/01/Depositphotos_437955496_xl-2015-768x512.jpg 768w, https://smartmag.theme-sphere.com/pro-mag/wp-content/uploads/sites/18/2021/01/Depositphotos_437955496_xl-2015-1536x1024.jpg 1536w, https://smartmag.theme-sphere.com/pro-mag/wp-content/uploads/sites/18/2021/01/Depositphotos_437955496_xl-2015-2048x1365.jpg 2048w, https://smartmag.theme-sphere.com/pro-mag/wp-content/uploads/sites/18/2021/01/Depositphotos_437955496_xl-2015-150x100.jpg 150w, https://smartmag.theme-sphere.com/pro-mag/wp-content/uploads/sites/18/2021/01/Depositphotos_437955496_xl-2015-450x300.jpg 450w, https://smartmag.theme-sphere.com/pro-mag/wp-content/uploads/sites/18/2021/01/Depositphotos_437955496_xl-2015-1200x800.jpg 1200w" data-sizes="(max-width: 105px) 100vw, 105px"></span></a>
+                                                                    <a href="" class="image-link media-ratio ar-bunyad-thumb" title="How to Apply Perfume and Make It Last Longer">
+                                                                        <span data-bgsrc="/src/asset/img/product/1_300_200.jpg" class="img bg-cover wp-post-image attachment-medium size-medium lazyload"
+                                                                              data-bgset="/src/asset/img/product/1_300_200.jpg" data-sizes="(max-width: 105px) 100vw, 105px">
+                                                                        </span>
+                                                                    </a>
                                                                 </div>
                                                                 <div class="content">
-                                                                    <div class="post-meta post-meta-a post-meta-left has-below"><h4 class="is-title post-title limit-lines l-lines-2"><a href="pro-mag/how-your-healthy-lifestyle-can-be-making-you-tired/">How Your &#8216;Healthy&#8217; Lifestyle Can Be Making You Tired</a></h4><div class="post-meta-items meta-below"><span class="meta-item date"><span class="date-link"><time class="post-date" datetime="2021-01-13T17:51:41+00:00">Jan  13, 2021</time></span></span></div></div>
+                                                                    <div class="post-meta post-meta-a post-meta-left has-below"><h4 class="is-title post-title limit-lines l-lines-2"><a href="pro-mag/how-to-apply-perfume-and-make-it-last-longer/">How to Apply Perfume and Make It Last Longer</a></h4><div class="post-meta-items meta-below"><span class="meta-item date"><span class="date-link"><time class="post-date" datetime="2021-01-13T17:51:51+00:00">Jan  13, 2021</time></span></span></div></div>
                                                                 </div>
                                                             </article>
                                                             <article class="l-post  small-a-post m-pos-left small-post">
                                                                 <div class="media">
-                                                                    <a href="pro-mag/10-strange-things-dogs-do-and-why-they-do-them/" class="image-link media-ratio ar-bunyad-thumb" title="10 Strange Things Dogs Do and Why They Do Them"><span data-bgsrc="https://smartmag.theme-sphere.com/pro-mag/wp-content/uploads/sites/18/2021/01/jamie-street-MoDcnVRN5JU-unsplash-1-1-300x225.jpg" class="img bg-cover wp-post-image attachment-medium size-medium lazyload" data-bgset="https://smartmag.theme-sphere.com/pro-mag/wp-content/uploads/sites/18/2021/01/jamie-street-MoDcnVRN5JU-unsplash-1-1-300x225.jpg 300w, https://smartmag.theme-sphere.com/pro-mag/wp-content/uploads/sites/18/2021/01/jamie-street-MoDcnVRN5JU-unsplash-1-1-1024x768.jpg 1024w, https://smartmag.theme-sphere.com/pro-mag/wp-content/uploads/sites/18/2021/01/jamie-street-MoDcnVRN5JU-unsplash-1-1-768x576.jpg 768w, https://smartmag.theme-sphere.com/pro-mag/wp-content/uploads/sites/18/2021/01/jamie-street-MoDcnVRN5JU-unsplash-1-1-1536x1152.jpg 1536w, https://smartmag.theme-sphere.com/pro-mag/wp-content/uploads/sites/18/2021/01/jamie-street-MoDcnVRN5JU-unsplash-1-1-2048x1536.jpg 2048w, https://smartmag.theme-sphere.com/pro-mag/wp-content/uploads/sites/18/2021/01/jamie-street-MoDcnVRN5JU-unsplash-1-1-150x113.jpg 150w, https://smartmag.theme-sphere.com/pro-mag/wp-content/uploads/sites/18/2021/01/jamie-street-MoDcnVRN5JU-unsplash-1-1-450x338.jpg 450w, https://smartmag.theme-sphere.com/pro-mag/wp-content/uploads/sites/18/2021/01/jamie-street-MoDcnVRN5JU-unsplash-1-1-1200x900.jpg 1200w" data-sizes="(max-width: 105px) 100vw, 105px"></span></a>
+                                                                    <a href="" class="image-link media-ratio ar-bunyad-thumb" title="How to Apply Perfume and Make It Last Longer">
+                                                                        <span data-bgsrc="/src/asset/img/product/1_300_200.jpg" class="img bg-cover wp-post-image attachment-medium size-medium lazyload"
+                                                                              data-bgset="/src/asset/img/product/1_300_200.jpg" data-sizes="(max-width: 105px) 100vw, 105px">
+                                                                        </span>
+                                                                    </a>
                                                                 </div>
                                                                 <div class="content">
-                                                                    <div class="post-meta post-meta-a post-meta-left has-below"><h4 class="is-title post-title limit-lines l-lines-2"><a href="pro-mag/10-strange-things-dogs-do-and-why-they-do-them/">10 Strange Things Dogs Do and Why They Do Them</a></h4><div class="post-meta-items meta-below"><span class="meta-item date"><span class="date-link"><time class="post-date" datetime="2021-01-13T17:51:39+00:00">Jan  13, 2021</time></span></span></div></div>
+                                                                    <div class="post-meta post-meta-a post-meta-left has-below"><h4 class="is-title post-title limit-lines l-lines-2"><a href="pro-mag/how-to-apply-perfume-and-make-it-last-longer/">How to Apply Perfume and Make It Last Longer</a></h4><div class="post-meta-items meta-below"><span class="meta-item date"><span class="date-link"><time class="post-date" datetime="2021-01-13T17:51:51+00:00">Jan  13, 2021</time></span></span></div></div>
                                                                 </div>
                                                             </article>
                                                             <article class="l-post  small-a-post m-pos-left small-post">
                                                                 <div class="media">
-                                                                    <a href="pro-mag/metal-artifacts-in-se-asia-challenge-long-held-theory/" class="image-link media-ratio ar-bunyad-thumb" title="Metal Artifacts in SE Asia Challenge Long-held Theory"><span data-bgsrc="https://smartmag.theme-sphere.com/pro-mag/wp-content/uploads/sites/18/2021/01/ziad-al-halabi-0BfykzLB4JE-unsplash-1-300x200.jpg" class="img bg-cover wp-post-image attachment-medium size-medium lazyload" data-bgset="https://smartmag.theme-sphere.com/pro-mag/wp-content/uploads/sites/18/2021/01/ziad-al-halabi-0BfykzLB4JE-unsplash-1-300x200.jpg 300w, https://smartmag.theme-sphere.com/pro-mag/wp-content/uploads/sites/18/2021/01/ziad-al-halabi-0BfykzLB4JE-unsplash-1-1024x683.jpg 1024w, https://smartmag.theme-sphere.com/pro-mag/wp-content/uploads/sites/18/2021/01/ziad-al-halabi-0BfykzLB4JE-unsplash-1-768x512.jpg 768w, https://smartmag.theme-sphere.com/pro-mag/wp-content/uploads/sites/18/2021/01/ziad-al-halabi-0BfykzLB4JE-unsplash-1-1536x1024.jpg 1536w, https://smartmag.theme-sphere.com/pro-mag/wp-content/uploads/sites/18/2021/01/ziad-al-halabi-0BfykzLB4JE-unsplash-1-2048x1365.jpg 2048w, https://smartmag.theme-sphere.com/pro-mag/wp-content/uploads/sites/18/2021/01/ziad-al-halabi-0BfykzLB4JE-unsplash-1-150x100.jpg 150w, https://smartmag.theme-sphere.com/pro-mag/wp-content/uploads/sites/18/2021/01/ziad-al-halabi-0BfykzLB4JE-unsplash-1-450x300.jpg 450w, https://smartmag.theme-sphere.com/pro-mag/wp-content/uploads/sites/18/2021/01/ziad-al-halabi-0BfykzLB4JE-unsplash-1-1200x800.jpg 1200w" data-sizes="(max-width: 105px) 100vw, 105px"></span></a>
+                                                                    <a href="" class="image-link media-ratio ar-bunyad-thumb" title="How to Apply Perfume and Make It Last Longer">
+                                                                        <span data-bgsrc="/src/asset/img/product/1_300_200.jpg" class="img bg-cover wp-post-image attachment-medium size-medium lazyload"
+                                                                              data-bgset="/src/asset/img/product/1_300_200.jpg" data-sizes="(max-width: 105px) 100vw, 105px">
+                                                                        </span>
+                                                                    </a>
                                                                 </div>
                                                                 <div class="content">
-                                                                    <div class="post-meta post-meta-a post-meta-left has-below"><h4 class="is-title post-title limit-lines l-lines-2"><a href="pro-mag/metal-artifacts-in-se-asia-challenge-long-held-theory/">Metal Artifacts in SE Asia Challenge Long-held Theory</a></h4><div class="post-meta-items meta-below"><span class="meta-item date"><span class="date-link"><time class="post-date" datetime="2021-01-13T17:51:38+00:00">Jan  13, 2021</time></span></span></div></div>
+                                                                    <div class="post-meta post-meta-a post-meta-left has-below"><h4 class="is-title post-title limit-lines l-lines-2"><a href="pro-mag/how-to-apply-perfume-and-make-it-last-longer/">How to Apply Perfume and Make It Last Longer</a></h4><div class="post-meta-items meta-below"><span class="meta-item date"><span class="date-link"><time class="post-date" datetime="2021-01-13T17:51:51+00:00">Jan  13, 2021</time></span></span></div></div>
                                                                 </div>
                                                             </article>
                                                         </div>
@@ -5042,11 +5058,6 @@
                                                             </div>
                                                             <div class="content">
                                                                 <div class="post-meta post-meta-a">
-                                                                    <div class="post-meta-items meta-above">
-                                                                        <span class="meta-item post-cat">
-						<a href="pro-mag/category/example-2/" class="category" rel="category">Computing</a>
-					</span>
-                                                                    </div>
                                                                     <h2 class="is-title post-title limit-lines l-lines-3">
                                                                         <a href="pro-mag/win11-taskbar-no-longer-supports-clock-seconds-display/">Win11 Taskbar No Longer Supports Clock Seconds Display</a></h2></div>
                                                                 <div class="excerpt">
@@ -5065,11 +5076,6 @@
                                                             </div>
                                                             <div class="content">
                                                                 <div class="post-meta post-meta-a">
-                                                                    <div class="post-meta-items meta-above">
-                                                                        <span class="meta-item post-cat">
-						<a href="pro-mag/category/example-2/" class="category" rel="category">Computing</a>
-					</span>
-                                                                    </div>
                                                                     <h2 class="is-title post-title limit-lines l-lines-3">
                                                                         <a href="pro-mag/win11-taskbar-no-longer-supports-clock-seconds-display/">Win11 Taskbar No Longer Supports Clock Seconds Display</a></h2></div>
                                                                 <div class="excerpt">
@@ -5088,11 +5094,6 @@
                                                             </div>
                                                             <div class="content">
                                                                 <div class="post-meta post-meta-a">
-                                                                    <div class="post-meta-items meta-above">
-                                                                        <span class="meta-item post-cat">
-						<a href="pro-mag/category/example-2/" class="category" rel="category">Computing</a>
-					</span>
-                                                                    </div>
                                                                     <h2 class="is-title post-title limit-lines l-lines-3">
                                                                         <a href="pro-mag/win11-taskbar-no-longer-supports-clock-seconds-display/">Win11 Taskbar No Longer Supports Clock Seconds Display</a></h2></div>
                                                                 <div class="excerpt">
@@ -6435,6 +6436,14 @@
                                 R A3.02 @ Valeo Building. No: 318/5 Trinh Dinh Trong St., Hoa Thanh ward, Tan Phu Dist. Ho Chi Minh City, Vietnam</br>
                                 Tel: 84-28-39575976/77/78/79  Fax: 84-28-39575975
                             </li>
+
+                        </ul>
+                    </div>
+                    <div class="widget col-4 widget_recent_comments">
+                        <div class="widget-title block-head block-head-ac block-head block-head-ac block-head-b is-left has-style">
+                            <h5 class="heading">Contact</h5></div>
+                        <ul id="recentcomments">
+
                             <li class="recentcomments">
                                 Tel: 84-28-39575976/77/78/79</br>
                                 Fax: 84-28-39575975
