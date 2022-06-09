@@ -4746,21 +4746,35 @@
     <link rel="alternate" type="text/xml+oembed" href="pro-mag/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsmartmag.theme-sphere.com%2Fpro-mag%2F&#038;format=xml" />
 
     <link href="/src/asset/css/frontend/bootstrap-chosen.css" rel="stylesheet">
-    <script src="/src/asset/js/frontend/jquery-3.6.0.min.js"></script>
-    <script src="/src/asset/js/frontend/endless_scroll_min.js" type="text/javascript"></script>
+<!--    <script src="/src/asset/js/frontend/endless_scroll_min.js" type="text/javascript"></script>-->
+<!--    <script src="/src/asset/js/frontend/jquery-3.6.0.min.js"></script>-->
+    <script
+            src="https://code.jquery.com/jquery-2.2.4.js"
+            integrity="sha256-iT6Q9iMJYuQiMWNd9lDyBUStIq/8PuOW33aOqmvFpqI="
+            crossorigin="anonymous"></script>
     <script type="text/javascript">
-        $(window).load(function () {
-            $("#s1").endlessScroll({
-                width: '100%',
-                height: '100px',
-                steps: -2, speed: 40,
-                mousestop: true });
-            $("#s2").endlessScroll({
-                width: '700px',
-                height: '26px',
-                steps: -2,
-                speed: 40,
-                mousestop: false });
+        // $(window).load(function () {
+        //     $("#s1").endlessScroll({
+        //         width: '100%',
+        //         height: '100px',
+        //         steps: -2, speed: 40,
+        //         mousestop: true });
+        //     $("#s2").endlessScroll({
+        //         width: '700px',
+        //         height: '26px',
+        //         steps: -2,
+        //         speed: 40,
+        //         mousestop: false });
+        // });
+
+        $(document).ready(function() {
+            alert("mmmm")
+        })
+
+        $(function() {
+            $(".change_lang").on("click", function() {
+                alert("aaa");
+            });
         });
     </script>
     <style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><!-- There is no amphtml version available for this URL. -->
@@ -4795,7 +4809,13 @@
                         <nav class="navigation navigation-small nav-hov-a">
                             <ul id="menu-top-nav" class="menu">
                                 <li id="menu-item-3534" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3534">
-                                    <a target="_blank" rel="noopener" href="">Tiếng Việt</a>
+                                    <a target="_blank" rel="noopener" href="">Đăng Ký</a>
+                                </li>
+                                <li id="menu-item-3534" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3534">
+                                    <a target="_blank" rel="noopener" href="">Đăng Nhập</a>
+                                </li>
+                                <li id="menu-item-3534" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3534">
+                                    <a class="change_lang" rel="noopener" href="javascript:void(0);">English</a>
                                 </li>
                             </ul>
                         </nav>
@@ -4850,6 +4870,21 @@
                                         </li>
                                         <li id="menu-item-4588" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4588">
                                             <a target="_blank" rel="noopener" href="">Chào Bán</a>
+                                        </li>
+                                        <li id="menu-item-4588" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4588">
+                                            <a target="_blank" rel="noopener" href="">Đường Bộ</a>
+                                        </li>
+                                        <li id="menu-item-4588" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4588">
+                                            <a target="_blank" rel="noopener" href="">Xuất Nhập Khẩu</a>
+                                        </li>
+                                        <li id="menu-item-4588" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4588">
+                                            <a target="_blank" rel="noopener" href="">Ga - Cảng - Cửa Khẩu</a>
+                                        </li>
+                                        <li id="menu-item-4588" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4588">
+                                            <a target="_blank" rel="noopener" href="">Đầu Tư</a>
+                                        </li>
+                                        <li id="menu-item-4588" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4588">
+                                            <a target="_blank" rel="noopener" href="">Khác</a>
                                         </li>
                                     </ul>
                                 </li>
@@ -5437,7 +5472,7 @@
                                                                 <div class="media">
                                                                     <a href="" class="image-link media-ratio ar-bunyad-thumb" title="Digital Calendars &amp; Organizers to Get You Organized in 2021">
                                                                         <span data-bgsrc="/src/asset/img/product/1_300_200.jpg" class="img bg-cover wp-post-image attachment-medium size-medium lazyloaded"
-                                                                              data-bgset="/src/asset/img/product/1_300_200.jpg" data-sizes="(max-width: 110px) 100vw, 110px" style="background-image: url(&quot;/src/asset/img/product/1_300_200.jpgg&quot;);">
+                                                                              data-bgset="/src/asset/img/product/1_300_200.jpg" data-sizes="(max-width: 110px) 100vw, 110px" style="background-image: url(&quot;/src/asset/img/product/1_300_200.jpg&quot;);">
                                                                         </span>
                                                                     </a>
                                                                 </div>
@@ -5460,7 +5495,7 @@
                                                                 <div class="media">
                                                                     <a href="" class="image-link media-ratio ar-bunyad-thumb" title="Digital Calendars &amp; Organizers to Get You Organized in 2021">
                                                                         <span data-bgsrc="/src/asset/img/product/1_300_200.jpg" class="img bg-cover wp-post-image attachment-medium size-medium lazyloaded"
-                                                                              data-bgset="/src/asset/img/product/1_300_200.jpg" data-sizes="(max-width: 110px) 100vw, 110px" style="background-image: url(&quot;/src/asset/img/product/1_300_200.jpgg&quot;);">
+                                                                              data-bgset="/src/asset/img/product/1_300_200.jpg" data-sizes="(max-width: 110px) 100vw, 110px" style="background-image: url(&quot;/src/asset/img/product/1_300_200.jpg&quot;);">
                                                                         </span>
                                                                     </a>
                                                                 </div>
@@ -5483,7 +5518,7 @@
                                                                 <div class="media">
                                                                     <a href="" class="image-link media-ratio ar-bunyad-thumb" title="Digital Calendars &amp; Organizers to Get You Organized in 2021">
                                                                         <span data-bgsrc="/src/asset/img/product/1_300_200.jpg" class="img bg-cover wp-post-image attachment-medium size-medium lazyloaded"
-                                                                              data-bgset="/src/asset/img/product/1_300_200.jpg" data-sizes="(max-width: 110px) 100vw, 110px" style="background-image: url(&quot;/src/asset/img/product/1_300_200.jpgg&quot;);">
+                                                                              data-bgset="/src/asset/img/product/1_300_200.jpg" data-sizes="(max-width: 110px) 100vw, 110px" style="background-image: url(&quot;/src/asset/img/product/1_300_200.jpg&quot;);">
                                                                         </span>
                                                                     </a>
                                                                 </div>
@@ -5526,7 +5561,7 @@
                                                                 <div class="media">
                                                                     <a href="" class="image-link media-ratio ar-bunyad-thumb" title="Digital Calendars &amp; Organizers to Get You Organized in 2021">
                                                                         <span data-bgsrc="/src/asset/img/product/1_300_200.jpg" class="img bg-cover wp-post-image attachment-medium size-medium lazyloaded"
-                                                                              data-bgset="/src/asset/img/product/1_300_200.jpg" data-sizes="(max-width: 110px) 100vw, 110px" style="background-image: url(&quot;/src/asset/img/product/1_300_200.jpgg&quot;);">
+                                                                              data-bgset="/src/asset/img/product/1_300_200.jpg" data-sizes="(max-width: 110px) 100vw, 110px" style="background-image: url(&quot;/src/asset/img/product/1_300_200.jpg&quot;);">
                                                                         </span>
                                                                     </a>
                                                                 </div>
@@ -5549,7 +5584,7 @@
                                                                 <div class="media">
                                                                     <a href="" class="image-link media-ratio ar-bunyad-thumb" title="Digital Calendars &amp; Organizers to Get You Organized in 2021">
                                                                         <span data-bgsrc="/src/asset/img/product/1_300_200.jpg" class="img bg-cover wp-post-image attachment-medium size-medium lazyloaded"
-                                                                              data-bgset="/src/asset/img/product/1_300_200.jpg" data-sizes="(max-width: 110px) 100vw, 110px" style="background-image: url(&quot;/src/asset/img/product/1_300_200.jpgg&quot;);">
+                                                                              data-bgset="/src/asset/img/product/1_300_200.jpg" data-sizes="(max-width: 110px) 100vw, 110px" style="background-image: url(&quot;/src/asset/img/product/1_300_200.jpg&quot;);">
                                                                         </span>
                                                                     </a>
                                                                 </div>
@@ -5572,7 +5607,7 @@
                                                                 <div class="media">
                                                                     <a href="" class="image-link media-ratio ar-bunyad-thumb" title="Digital Calendars &amp; Organizers to Get You Organized in 2021">
                                                                         <span data-bgsrc="/src/asset/img/product/1_300_200.jpg" class="img bg-cover wp-post-image attachment-medium size-medium lazyloaded"
-                                                                              data-bgset="/src/asset/img/product/1_300_200.jpg" data-sizes="(max-width: 110px) 100vw, 110px" style="background-image: url(&quot;/src/asset/img/product/1_300_200.jpgg&quot;);">
+                                                                              data-bgset="/src/asset/img/product/1_300_200.jpg" data-sizes="(max-width: 110px) 100vw, 110px" style="background-image: url(&quot;/src/asset/img/product/1_300_200.jpg&quot;);">
                                                                         </span>
                                                                     </a>
                                                                 </div>
@@ -5615,7 +5650,7 @@
                                                                 <div class="media">
                                                                     <a href="" class="image-link media-ratio ar-bunyad-thumb" title="Digital Calendars &amp; Organizers to Get You Organized in 2021">
                                                                         <span data-bgsrc="/src/asset/img/product/1_300_200.jpg" class="img bg-cover wp-post-image attachment-medium size-medium lazyloaded"
-                                                                              data-bgset="/src/asset/img/product/1_300_200.jpg" data-sizes="(max-width: 110px) 100vw, 110px" style="background-image: url(&quot;/src/asset/img/product/1_300_200.jpgg&quot;);">
+                                                                              data-bgset="/src/asset/img/product/1_300_200.jpg" data-sizes="(max-width: 110px) 100vw, 110px" style="background-image: url(&quot;/src/asset/img/product/1_300_200.jpg&quot;);">
                                                                         </span>
                                                                     </a>
                                                                 </div>
@@ -5638,7 +5673,7 @@
                                                                 <div class="media">
                                                                     <a href="" class="image-link media-ratio ar-bunyad-thumb" title="Digital Calendars &amp; Organizers to Get You Organized in 2021">
                                                                         <span data-bgsrc="/src/asset/img/product/1_300_200.jpg" class="img bg-cover wp-post-image attachment-medium size-medium lazyloaded"
-                                                                              data-bgset="/src/asset/img/product/1_300_200.jpg" data-sizes="(max-width: 110px) 100vw, 110px" style="background-image: url(&quot;/src/asset/img/product/1_300_200.jpgg&quot;);">
+                                                                              data-bgset="/src/asset/img/product/1_300_200.jpg" data-sizes="(max-width: 110px) 100vw, 110px" style="background-image: url(&quot;/src/asset/img/product/1_300_200.jpg&quot;);">
                                                                         </span>
                                                                     </a>
                                                                 </div>
@@ -5661,7 +5696,7 @@
                                                                 <div class="media">
                                                                     <a href="" class="image-link media-ratio ar-bunyad-thumb" title="Digital Calendars &amp; Organizers to Get You Organized in 2021">
                                                                         <span data-bgsrc="/src/asset/img/product/1_300_200.jpg" class="img bg-cover wp-post-image attachment-medium size-medium lazyloaded"
-                                                                              data-bgset="/src/asset/img/product/1_300_200.jpg" data-sizes="(max-width: 110px) 100vw, 110px" style="background-image: url(&quot;/src/asset/img/product/1_300_200.jpgg&quot;);">
+                                                                              data-bgset="/src/asset/img/product/1_300_200.jpg" data-sizes="(max-width: 110px) 100vw, 110px" style="background-image: url(&quot;/src/asset/img/product/1_300_200.jpg&quot;);">
                                                                         </span>
                                                                     </a>
                                                                 </div>
